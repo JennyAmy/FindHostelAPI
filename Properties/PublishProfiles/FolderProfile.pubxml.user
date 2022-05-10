@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Jennifer.Oliseynum\Documents\Projects\NewProjects\HousingIIS</_PublishTargetUrl>
+    <History>True|2022-01-04T07:41:12.6238009Z;True|2022-01-04T00:23:30.3606502-07:00;</History>
+  </PropertyGroup>
+</Project>

@@ -30,13 +30,21 @@ namespace HousingAPI.Repo
 
         public async Task<IEnumerable<Property>> GetPropertiesAsync(int sellRent)
         {
-            var properties = await context.Properties
-                .Include(p => p.PropertyType)
-                .Include(p => p.City)
-                .Include(p => p.FurnishingType)
-                .Include(p => p.Photos)
-                .Where(p => p.SellRent == sellRent).ToListAsync();
-            return properties;
+            try
+            {
+              var properties = await context.Properties
+             .Include(p => p.PropertyType)
+             .Include(p => p.City)
+             .Include(p => p.FurnishingType)
+             .Include(p => p.Photos)
+             .Where(p => p.SellRent == sellRent).ToListAsync();
+                return properties;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error: "+ ex);
+            }
+
         }
 
         public async Task<Property> GetPropertyDetailAsync(int id)

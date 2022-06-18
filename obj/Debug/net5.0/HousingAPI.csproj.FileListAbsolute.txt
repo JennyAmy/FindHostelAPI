@@ -194,7 +194,6 @@ C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\Find
 C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\FindHostelAPI\obj\Debug\net5.0\scopedcss\bundle\HousingAPI.styles.css
 C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\FindHostelAPI\obj\Debug\net5.0\staticwebassets\HousingAPI.StaticWebAssets.Manifest.cache
 C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\FindHostelAPI\obj\Debug\net5.0\HousingAPI.RazorTargetAssemblyInfo.cache
-C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\FindHostelAPI\obj\Debug\net5.0\HousingAPI.csproj.CopyComplete
 C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\FindHostelAPI\obj\Debug\net5.0\HousingAPI.dll
 C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\FindHostelAPI\obj\Debug\net5.0\ref\HousingAPI.dll
 C:\Users\Jennifer.Oliseynum\Documents\Projects\MainProjects\MyPropertiesApp\FindHostelAPI\obj\Debug\net5.0\HousingAPI.pdb
